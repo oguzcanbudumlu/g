@@ -18,7 +18,7 @@ func Add(i int, i2 int) interface{} {
 	return i + i2
 }
 
-// Will appear in `godoc` documentation
+// Will appear in `godoc` documentation.
 func ExampleAdd() {
 	sum := Add(1, 5)
 	fmt.Println(sum)
