@@ -32,6 +32,26 @@ Go!`
 	}
 }
 
+func TestWrongCountdown(t *testing.T) {
+	buffer := &bytes.Buffer{}
+	spySleeper := &SpySleeper{}
+	WrongCountdown(buffer, spySleeper)
+
+	got := buffer.String()
+	want := `3
+2
+1
+Go!`
+
+	if got != want {
+		t.Errorf("got %q want %q", got, want)
+	}
+
+	if spySleeper.Calls != 3 {
+		t.Errorf("not enough calls to sleeper, want 3 got %d", spySleeper.Calls)
+	}
+}
+
 type Sleeper interface {
 	Sleep()
 }
@@ -54,6 +74,17 @@ func Countdown(out io.Writer, sleeper Sleeper) {
 	for i := countdownStart; i > 0; i-- {
 		fmt.Fprintln(out, i)
 		sleeper.Sleep()
+	}
+	fmt.Fprint(out, finalWord)
+}
+
+func WrongCountdown(out io.Writer, sleeper Sleeper) {
+	for i := countdownStart; i > 0; i-- {
+		sleeper.Sleep()
+	}
+
+	for i := countdownStart; i > 0; i-- {
+		fmt.Fprintln(out, i)
 	}
 	fmt.Fprint(out, finalWord)
 }
