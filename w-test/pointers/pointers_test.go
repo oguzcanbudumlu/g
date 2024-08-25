@@ -7,6 +7,11 @@ import (
 
 type Bitcoin int
 
+// Implement Stringer interface
+func (b Bitcoin) String() string {
+	return fmt.Sprintf("%d BTC", b)
+}
+
 type Wallet struct {
 	balance Bitcoin
 }
@@ -32,7 +37,8 @@ func TestWallet(t *testing.T) {
 
 	want := Bitcoin(10)
 
+	fmt.Printf("got %s want %s\n", got, want)
 	if got != want {
-		t.Errorf("got %d want %d", got, want)
+		t.Errorf("got %s want %s", got, want)
 	}
 }
