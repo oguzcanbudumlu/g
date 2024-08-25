@@ -22,3 +22,5 @@ errcheck .
 - https://en.wikipedia.org/wiki/Parametric_polymorphism
 - https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
 - https://go.dev/ref/spec#Comparison_operators
+- https://dave.cheney.net/2017/04/30/if-a-map-isnt-a-reference-variable-what-is-it
+- https://go.dev/blog/maps
