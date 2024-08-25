@@ -21,3 +21,4 @@ errcheck .
 -  https://www.google.co.uk/search?kgmid=/m/027t07h&hl=en-GB&kgs=f612d9def5f04cf0&q=Test-driven+Development:+By+Example&shndl=0&source=sh/x/kp&entrypoint=sh/x/kp
 - https://en.wikipedia.org/wiki/Parametric_polymorphism
 - https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully
+- https://go.dev/ref/spec#Comparison_operators
