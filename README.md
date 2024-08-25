@@ -25,3 +25,5 @@ errcheck .
 - https://dave.cheney.net/2017/04/30/if-a-map-isnt-a-reference-variable-what-is-it
 - https://go.dev/blog/maps
 - https://dave.cheney.net/2016/04/07/constant-errors
+- https://martinfowler.com/bliki/TestDouble.html
+- https://stackoverflow.com/questions/19291776/whats-the-difference-between-abstraction-and-generalization
