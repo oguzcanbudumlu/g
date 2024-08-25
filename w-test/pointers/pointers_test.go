@@ -5,17 +5,19 @@ import (
 	"testing"
 )
 
+type Bitcoin int
+
 type Wallet struct {
-	balance int
+	balance Bitcoin
 }
 
-func (w *Wallet) Deposit(amount int) {
+func (w *Wallet) Deposit(amount Bitcoin) {
 	fmt.Printf("address of balance is %p \n", &w.balance)
 
 	w.balance += amount
 }
 
-func (w *Wallet) Balance() int {
+func (w *Wallet) Balance() Bitcoin {
 	return w.balance
 }
 
@@ -28,7 +30,7 @@ func TestWallet(t *testing.T) {
 
 	fmt.Printf("address of balance in test is %p \n", &wallet.balance)
 
-	want := 10
+	want := Bitcoin(10)
 
 	if got != want {
 		t.Errorf("got %d want %d", got, want)
