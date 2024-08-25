@@ -14,15 +14,21 @@ func TestCountdown(t *testing.T) {
 	Countdown(buffer)
 
 	got := buffer.String()
-	want := "3"
+	want := `3
+2
+1
+Go!`
 
 	if got != want {
 		t.Errorf("got %q want %q", got, want)
 	}
 }
 
-func Countdown(buffer io.Writer) {
-	fmt.Fprint(buffer, "3")
+func Countdown(out io.Writer) {
+	for i := 3; i > 0; i-- {
+		fmt.Fprintln(out, i)
+	}
+	fmt.Fprint(out, "Go!")
 }
 
 func main() {
