@@ -5,7 +5,8 @@ type Dictionary map[string]string
 var (
 	ErrNotFound      = DictionaryErr("could not find")
 	ErrAlreadyExists = DictionaryErr("already exists")
-	ErrDoesNotExist  = DictionaryErr("cannot update because it does not exists")
+	ErrDoesNotExist  = DictionaryErr("cannot update because it does not exist")
+	ErrCannotDelete  = DictionaryErr("cannot delete because it does not exits")
 )
 
 type DictionaryErr string
@@ -48,4 +49,8 @@ func (d Dictionary) Update(word string, newDef string) error {
 	}
 
 	return nil
+}
+
+func (d Dictionary) Delete(word string) {
+	delete(d, word)
 }
