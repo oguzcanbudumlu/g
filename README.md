@@ -13,6 +13,7 @@ go mod init hello
 go test -bench=.
 go install github.com/kisielk/errcheck@latest
 errcheck .
+go test -race
 ```
 
 # links
@@ -27,3 +28,4 @@ errcheck .
 - https://dave.cheney.net/2016/04/07/constant-errors
 - https://martinfowler.com/bliki/TestDouble.html
 - https://stackoverflow.com/questions/19291776/whats-the-difference-between-abstraction-and-generalization
+- https://go.dev/blog/race-detector

@@ -18,6 +18,31 @@ func CheckWebsites(wc WebsiteChecker, urls []string) map[string]bool {
 	return results
 }
 
+func CheckWebsitesConcurrentWrong(wc WebsiteChecker, urls []string) map[string]bool {
+	results := make(map[string]bool)
+
+	for _, url := range urls {
+		go func() {
+			results[url] = wc(url)
+		}()
+	}
+
+	return results
+}
+
+func CheckWebsitesConcurrentCorrect(wc WebsiteChecker, urls []string) map[string]bool {
+	results := make(map[string]bool)
+
+	for _, url := range urls {
+		go func(u string) {
+			results[u] = wc(u)
+		}(url)
+	}
+
+	//time.Sleep(2 * time.Second)
+	return results
+}
+
 func mockWebsiteChecker(url string) bool {
 	return url != "waat://furhurterwe.geds"
 }
@@ -54,6 +79,17 @@ func BenchmarkCheckWebsites(b *testing.B) {
 	}
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
-		CheckWebsites(slowStubWebsiteChecker, urls)
+		CheckWebsites(mockWebsiteChecker, urls)
+	}
+}
+
+func BenchmarkCheckWebsitesConcurrentCorrect(b *testing.B) {
+	urls := make([]string, 100)
+	for i := 0; i < len(urls); i++ {
+		urls[i] = "a url"
+	}
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		CheckWebsitesConcurrentCorrect(mockWebsiteChecker, urls)
 	}
 }
