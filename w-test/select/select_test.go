@@ -19,15 +19,27 @@ func TestRacerFlaky(t *testing.T) {
 	}
 }
 
-func TestRacerWithServer(t *testing.T) {
-	slowServer := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-		time.Sleep(20 * time.Millisecond)
-		w.WriteHeader(http.StatusOK)
-	}))
+func Racer(a string, b string) (winner string) {
+	aDuration := measureResponseTime(a)
+	bDuration := measureResponseTime(b)
 
-	fastServer := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-		w.WriteHeader(http.StatusOK)
-	}))
+	if aDuration < bDuration {
+		return a
+	}
+
+	return b
+}
+
+func measureResponseTime(url string) time.Duration {
+	start := time.Now()
+	http.Get(url)
+	return time.Since(start)
+}
+
+func TestRacerWithServer(t *testing.T) {
+	slowServer := makeDelayedServer(20 * time.Millisecond)
+
+	fastServer := makeDelayedServer(0)
 
 	slowURL := slowServer.URL
 	fastURL := fastServer.URL
@@ -43,18 +55,9 @@ func TestRacerWithServer(t *testing.T) {
 	fastServer.Close()
 }
 
-func Racer(a string, b string) (winner string) {
-	startA := time.Now()
-	http.Get(a)
-	aDuration := time.Since(startA)
-
-	startB := time.Now()
-	http.Get(b)
-	bDuration := time.Since(startB)
-
-	if aDuration < bDuration {
-		return a
-	}
-
-	return b
+func makeDelayedServer(delay time.Duration) *httptest.Server {
+	return httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		time.Sleep(delay)
+		w.WriteHeader(http.StatusOK)
+	}))
 }
