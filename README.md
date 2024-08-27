@@ -11,6 +11,7 @@ godoc -http=localhost:8000
 go install golang.org/x/tools/cmd/godoc@latest
 go mod init hello
 go test -bench=.
+go test -bench=<function-name>
 go install github.com/kisielk/errcheck@latest
 errcheck .
 go test -race

@@ -8,6 +8,11 @@ import (
 
 type WebsiteChecker func(string) bool
 
+type result struct {
+	string
+	bool
+}
+
 func CheckWebsites(wc WebsiteChecker, urls []string) map[string]bool {
 	results := make(map[string]bool)
 
@@ -18,7 +23,7 @@ func CheckWebsites(wc WebsiteChecker, urls []string) map[string]bool {
 	return results
 }
 
-func CheckWebsitesConcurrentWrong(wc WebsiteChecker, urls []string) map[string]bool {
+func CheckWebsitesConcurrency(wc WebsiteChecker, urls []string) map[string]bool {
 	results := make(map[string]bool)
 
 	for _, url := range urls {
@@ -30,7 +35,7 @@ func CheckWebsitesConcurrentWrong(wc WebsiteChecker, urls []string) map[string]b
 	return results
 }
 
-func CheckWebsitesConcurrentCorrect(wc WebsiteChecker, urls []string) map[string]bool {
+func CheckWebsitesConcurrencyByArgCopy(wc WebsiteChecker, urls []string) map[string]bool {
 	results := make(map[string]bool)
 
 	for _, url := range urls {
@@ -40,6 +45,24 @@ func CheckWebsitesConcurrentCorrect(wc WebsiteChecker, urls []string) map[string
 	}
 
 	//time.Sleep(2 * time.Second)
+	return results
+}
+
+func CheckWebsitesConcurrencyByChannel(wc WebsiteChecker, urls []string) map[string]bool {
+	results := make(map[string]bool)
+	resultChannel := make(chan result)
+
+	for _, url := range urls {
+		go func(u string) {
+			resultChannel <- result{u, wc(u)}
+		}(url)
+	}
+
+	for i := 0; i < len(urls); i++ {
+		r := <-resultChannel
+		results[r.string] = r.bool
+	}
+
 	return results
 }
 
@@ -83,13 +106,24 @@ func BenchmarkCheckWebsites(b *testing.B) {
 	}
 }
 
-func BenchmarkCheckWebsitesConcurrentCorrect(b *testing.B) {
+func BenchmarkCheckWebsitesConcurrencyByArgCopy(b *testing.B) {
 	urls := make([]string, 100)
 	for i := 0; i < len(urls); i++ {
 		urls[i] = "a url"
 	}
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
-		CheckWebsitesConcurrentCorrect(mockWebsiteChecker, urls)
+		CheckWebsitesConcurrencyByArgCopy(mockWebsiteChecker, urls)
+	}
+}
+
+func BenchmarkCheckWebsitesConcurrencyByChannel(b *testing.B) {
+	urls := make([]string, 100)
+	for i := 0; i < len(urls); i++ {
+		urls[i] = "a url"
+	}
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		CheckWebsitesConcurrencyByChannel(mockWebsiteChecker, urls)
 	}
 }
