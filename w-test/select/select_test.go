@@ -1,6 +1,10 @@
 package racer
 
-import "testing"
+import (
+	"net/http"
+	"testing"
+	"time"
+)
 
 func TestRacer(t *testing.T) {
 	slowURL := "http://www.facebook.com"
@@ -15,5 +19,17 @@ func TestRacer(t *testing.T) {
 }
 
 func Racer(a string, b string) (winner string) {
-	return
+	startA := time.Now()
+	http.Get(a)
+	aDuration := time.Since(startA)
+
+	startB := time.Now()
+	http.Get(b)
+	bDuration := time.Since(startB)
+
+	if aDuration < bDuration {
+		return a
+	}
+
+	return b
 }
