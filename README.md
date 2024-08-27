@@ -30,3 +30,6 @@ go test -race
 - https://martinfowler.com/bliki/TestDouble.html
 - https://stackoverflow.com/questions/19291776/whats-the-difference-between-abstraction-and-generalization
 - https://go.dev/blog/race-detector
+- http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
+- http://wiki.c2.com/?PrematureOptimization
+- http://www.quii.dev
