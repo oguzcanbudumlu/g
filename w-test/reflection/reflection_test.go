@@ -34,6 +34,25 @@ func TestWalk(t *testing.T) {
 			}{"Fenerbahce", 1907},
 			[]string{"Fenerbahce"},
 		},
+		{
+			"nested fields",
+			struct {
+				Name    string
+				Profile struct {
+					Year     int
+					Location string
+				}
+			}{
+				"Fenerbahce", struct {
+					Year     int
+					Location string
+				}{
+					1907,
+					"Istanbul",
+				},
+			},
+			[]string{"Fenerbahce", "Istanbul"},
+		},
 	}
 
 	for _, test := range cases {
@@ -57,6 +76,10 @@ func walk(x interface{}, fn func(input string)) {
 
 		if field.Kind() == reflect.String {
 			fn(field.String())
+		}
+
+		if field.Kind() == reflect.Struct {
+			walk(field.Interface(), fn)
 		}
 	}
 }

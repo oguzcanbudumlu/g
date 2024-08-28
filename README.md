@@ -33,3 +33,4 @@ go test -race
 - http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 - http://wiki.c2.com/?PrematureOptimization
 - http://www.quii.dev
+- https://github.com/golang/go/issues/12854
