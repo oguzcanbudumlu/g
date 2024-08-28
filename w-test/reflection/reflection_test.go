@@ -53,6 +53,25 @@ func TestWalk(t *testing.T) {
 			},
 			[]string{"Fenerbahce", "Istanbul"},
 		},
+		{
+			"pointer to things",
+			&struct {
+				Name    string
+				Profile struct {
+					Year     int
+					Location string
+				}
+			}{
+				"Fenerbahce", struct {
+					Year     int
+					Location string
+				}{
+					1907,
+					"Istanbul",
+				},
+			},
+			[]string{"Fenerbahce", "Istanbul"},
+		},
 	}
 
 	for _, test := range cases {
@@ -71,6 +90,10 @@ func TestWalk(t *testing.T) {
 
 func walk(x interface{}, fn func(input string)) {
 	val := reflect.ValueOf(x)
+	if val.Kind() == reflect.Pointer {
+		val = val.Elem()
+	}
+
 	for i := 0; i < val.NumField(); i++ {
 		field := val.Field(i)
 
