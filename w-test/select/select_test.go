@@ -21,12 +21,16 @@ func TestRacerFlaky(t *testing.T) {
 }
 
 func RacerConcurrent(a, b string) (winner string, err error) {
+	return ConfigurableRacer(a, b, 10*time.Second)
+}
+
+func ConfigurableRacer(a, b string, timeout time.Duration) (winner string, err error) {
 	select {
 	case <-ping(a):
 		return a, nil
 	case <-ping(b):
 		return b, nil
-	case <-time.After(10 * time.Second):
+	case <-time.After(timeout):
 		return "", fmt.Errorf("timed out waiting for %s and %s", a, b)
 	}
 }
@@ -76,14 +80,12 @@ func TestRacerWithServer(t *testing.T) {
 		}
 	})
 
-	t.Run("returns an error if a server does not respond within 10s", func(t *testing.T) {
-		serverA := makeDelayedServer(11 * time.Second)
-		serverB := makeDelayedServer(12 * time.Second)
+	t.Run("returns an error if a server does not respond within the specified time", func(t *testing.T) {
+		serverA := makeDelayedServer(25 * time.Millisecond)
 
 		defer serverA.Close()
-		defer serverB.Close()
 
-		_, err := RacerConcurrent(serverA.URL, serverB.URL)
+		_, err := ConfigurableRacer(serverA.URL, serverA.URL, 20*time.Millisecond)
 
 		if err == nil {
 			t.Error("expected an error but did not get one")
