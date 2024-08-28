@@ -18,6 +18,14 @@ func TestWalk(t *testing.T) {
 			}{"Fenerbahce"},
 			[]string{"Fenerbahce"},
 		},
+		{
+			"struct with two string fields",
+			struct {
+				Name string
+				City string
+			}{"Fener", "bahce"},
+			[]string{"Fener", "bahce"},
+		},
 	}
 
 	for _, test := range cases {
@@ -36,6 +44,8 @@ func TestWalk(t *testing.T) {
 
 func walk(x interface{}, fn func(input string)) {
 	val := reflect.ValueOf(x)
-	field := val.Field(0)
-	fn(field.String())
+	for i := 0; i < val.NumField(); i++ {
+		field := val.Field(i)
+		fn(field.String())
+	}
 }
