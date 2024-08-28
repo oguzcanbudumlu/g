@@ -1,3 +1,4 @@
 .idea
 g.iml
-go.mod
+.go
+/go.mod
