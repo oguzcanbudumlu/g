@@ -1,6 +1,9 @@
 package reflection
 
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
 
 func TestWalk(t *testing.T) {
 	expected := "Fenerbahce"
@@ -25,5 +28,7 @@ func TestWalk(t *testing.T) {
 }
 
 func walk(x interface{}, fn func(input string)) {
-	fn("Fenerbahce")
+	val := reflect.ValueOf(x)
+	field := val.Field(0)
+	fn(field.String())
 }
