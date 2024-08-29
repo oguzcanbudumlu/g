@@ -5,6 +5,8 @@ import (
 	"testing"
 )
 
+// https://go.dev/wiki/MutexOrChannel
+// go vet
 type Counter struct {
 	mu    sync.Mutex
 	value int
