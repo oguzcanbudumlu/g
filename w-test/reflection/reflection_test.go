@@ -157,6 +157,27 @@ func TestWalk(t *testing.T) {
 			t.Errorf("got %v, want %v", got, want)
 		}
 	})
+
+	t.Run("with function", func(t *testing.T) {
+		type Profile struct {
+			Year     int
+			Location string
+		}
+
+		aFunction := func() (Profile, Profile) {
+			return Profile{1907, "Kadikoy"}, Profile{1903, "Besiktas"}
+		}
+		var got []string
+		want := []string{"Kadikoy", "Besiktas"}
+
+		walk(aFunction, func(input string) {
+			got = append(got, input)
+		})
+
+		if !reflect.DeepEqual(got, want) {
+			t.Errorf("got %v, want %v", got, want)
+		}
+	})
 }
 
 func assertContains(t testing.TB, haystack []string, needle string) {
@@ -202,6 +223,11 @@ func walk(x interface{}, fn func(input string)) {
 			} else {
 				break
 			}
+		}
+	case reflect.Func:
+		valFnResult := val.Call(nil)
+		for _, res := range valFnResult {
+			walkValue(res)
 		}
 	}
 
