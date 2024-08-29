@@ -15,6 +15,7 @@ go test -bench=<function-name>
 go install github.com/kisielk/errcheck@latest
 errcheck .
 go test -race
+go vet
 ```
 
 # links
