@@ -103,6 +103,14 @@ func TestWalk(t *testing.T) {
 			},
 			[]string{"Kadikoy", "Besiktas"},
 		},
+		{
+			"maps",
+			map[string]string{
+				"Fenerbahce": "Kadikoy",
+				"Besiktas":   "Besiktas",
+			},
+			[]string{"Kadikoy", "Besiktas"},
+		},
 	}
 
 	for _, test := range cases {
@@ -134,6 +142,10 @@ func walk(x interface{}, fn func(input string)) {
 	case reflect.Slice, reflect.Array:
 		numberOfValues = val.Len()
 		getField = val.Index
+	case reflect.Map:
+		for _, key := range val.MapKeys() {
+			walk(val.MapIndex(key).Interface(), fn)
+		}
 	}
 
 	for i := 0; i < numberOfValues; i++ {
