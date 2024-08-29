@@ -89,6 +89,20 @@ func TestWalk(t *testing.T) {
 			},
 			[]string{"Kadikoy", "Besiktas"},
 		},
+		{
+			"arrays",
+			[2]struct {
+				Year     int
+				Location string
+			}{{
+				1907,
+				"Kadikoy",
+			}, {
+				1903, "Besiktas",
+			},
+			},
+			[]string{"Kadikoy", "Besiktas"},
+		},
 	}
 
 	for _, test := range cases {
@@ -117,7 +131,7 @@ func walk(x interface{}, fn func(input string)) {
 	case reflect.Struct:
 		numberOfValues = val.NumField()
 		getField = val.Field
-	case reflect.Slice:
+	case reflect.Slice, reflect.Array:
 		numberOfValues = val.Len()
 		getField = val.Index
 	}
