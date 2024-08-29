@@ -132,6 +132,31 @@ func TestWalk(t *testing.T) {
 		assertContains(t, got, "Kadikoy")
 		assertContains(t, got, "Besiktas")
 	})
+
+	t.Run("with channels", func(t *testing.T) {
+		type Profile struct {
+			Year     int
+			Location string
+		}
+		aChannel := make(chan Profile)
+
+		go func() {
+			aChannel <- Profile{1907, "Kadikoy"}
+			aChannel <- Profile{1903, "Besiktas"}
+			close(aChannel)
+		}()
+
+		var got []string
+		want := []string{"Kadikoy", "Besiktas"}
+
+		walk(aChannel, func(input string) {
+			got = append(got, input)
+		})
+
+		if !reflect.DeepEqual(got, want) {
+			t.Errorf("got %v, want %v", got, want)
+		}
+	})
 }
 
 func assertContains(t testing.TB, haystack []string, needle string) {
@@ -169,6 +194,14 @@ func walk(x interface{}, fn func(input string)) {
 	case reflect.Map:
 		for _, key := range val.MapKeys() {
 			walkValue(val.MapIndex(key))
+		}
+	case reflect.Chan:
+		for {
+			if v, ok := val.Recv(); ok {
+				walkValue(v)
+			} else {
+				break
+			}
 		}
 	}
 
