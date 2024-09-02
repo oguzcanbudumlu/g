@@ -3,6 +3,7 @@ package server
 import (
 	"context"
 	"fmt"
+	"log"
 	"net/http"
 	"net/http/httptest"
 	"testing"
@@ -13,26 +14,14 @@ import (
 // https://pkg.go.dev/context
 
 type Store interface {
-	Fetch() string
+	Fetch(ctx context.Context) (string, error)
 	Cancel()
 }
 
 func Server(store Store) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		ctx := r.Context()
-
-		data := make(chan string, 1)
-
-		go func() {
-			data <- store.Fetch()
-		}()
-
-		select {
-		case d := <-data:
-			fmt.Fprint(w, d)
-		case <-ctx.Done():
-			store.Cancel()
-		}
+		data, _ := store.Fetch(r.Context())
+		fmt.Fprint(w, data)
 	}
 }
 
@@ -42,8 +31,29 @@ type SpyStore struct {
 	t         *testing.T
 }
 
-func (s *SpyStore) Fetch() string {
-	return s.response
+func (s *SpyStore) Fetch(ctx context.Context) (string, error) {
+	data := make(chan string, 1)
+	go func() {
+		var result string
+		for _, c := range s.response {
+			select {
+			case <-ctx.Done():
+				log.Println("spy store got cancelled")
+				return
+			default:
+				time.Sleep(10 * time.Millisecond)
+				result += string(c)
+			}
+		}
+		data <- result
+	}()
+
+	select {
+	case <-ctx.Done():
+		return "", ctx.Err()
+	case res := <-data:
+		return res, nil
+	}
 }
 
 func (s *SpyStore) Cancel() {
@@ -89,7 +99,7 @@ func TestServer(t *testing.T) {
 		request := httptest.NewRequest(http.MethodGet, "/", nil)
 
 		cancellingCtx, cancel := context.WithCancel(request.Context())
-		time.AfterFunc(1*time.Nanosecond, cancel)
+		time.AfterFunc(5*time.Millisecond, cancel)
 		request = request.WithContext(cancellingCtx)
 
 		response := httptest.NewRecorder()
