@@ -2,6 +2,7 @@ package server
 
 import (
 	"context"
+	"errors"
 	"fmt"
 	"log"
 	"net/http"
@@ -12,6 +13,8 @@ import (
 
 // https://go.dev/blog/context
 // https://pkg.go.dev/context
+// https://faiface.github.io/post/context-should-go-away-go2/
+// https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
 
 type Store interface {
 	Fetch(ctx context.Context) (string, error)
@@ -20,7 +23,10 @@ type Store interface {
 
 func Server(store Store) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		data, _ := store.Fetch(r.Context())
+		data, err := store.Fetch(r.Context())
+		if err != nil {
+			return
+		}
 		fmt.Fprint(w, data)
 	}
 }
@@ -74,6 +80,24 @@ func (s *SpyStore) assertWasNotCancelled() {
 	}
 }
 
+type SpyResponseWriter struct {
+	written bool
+}
+
+func (s *SpyResponseWriter) Header() http.Header {
+	s.written = true
+	return nil
+}
+
+func (s *SpyResponseWriter) Write([]byte) (int, error) {
+	s.written = true
+	return 0, errors.New("not implemented")
+}
+
+func (s *SpyResponseWriter) WriteHeader(statusCode int) {
+	s.written = true
+}
+
 func TestServer(t *testing.T) {
 	data := "hello world"
 	t.Run("returns data from store", func(t *testing.T) {
@@ -102,10 +126,11 @@ func TestServer(t *testing.T) {
 		time.AfterFunc(5*time.Millisecond, cancel)
 		request = request.WithContext(cancellingCtx)
 
-		response := httptest.NewRecorder()
-
+		response := &SpyResponseWriter{}
 		svr.ServeHTTP(response, request)
 
-		store.assertWasCancelled()
+		if response.written {
+			t.Errorf("a response should not have written")
+		}
 	})
 }
