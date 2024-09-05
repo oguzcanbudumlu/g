@@ -149,6 +149,70 @@
 
 ## 4. Drive Results Collaboratively (Telling people what to do does not work.)
 
+### Telling people what to do didn't work at Google
+
+### Telling people what to do didn't work for Steve Jobs Either
+
+### The art of getting stuff done without telling people what to do
+
+
+### Listen ("Give the quite ones a voice" - Jony Ive)
+
+#### Quiet listening
+
+#### Loud listening
+
+#### Create a culture of listening
+
+#### Adapt to a culture of listening
+
+### Clarify ("It is only by selection, by elimination, and by emphasis that we get at the real meaning of things." -Georgia O'Keefe)
+
+#### Be clear in your own mind (Create a safe space to nurture new ideas)
+
+#### Be clear to others (Make thoughts/ideas drop-dead easy for others to comprehend)
+
+### Debate
+
+#### Keep the conversation focused on ideas not egos
+
+#### Create on obligation to dissent
+
+#### Pause for emotion/exhaustion
+
+#### Use humor and have fun
+
+#### Be clear when the debate will end
+
+#### Don't grab a decision just because the debate has gotten painful
+
+### Decide (Push decisions into the facts, or pull facts into the decisions, but keep ego out)
+
+#### You're not the decider (usually)
+
+#### The decider should get facts, not recommendations
+
+### Persuade ("Emotion.Credibility.Logic" -Aristotle)
+
+#### Emotion (The listener's emotions, not the speaker's)
+
+#### Credibility (Demonstrate expertise and humility)
+
+#### Logic (Show your work)
+
+### Execute (Minimize the collaboration tax)
+
+#### Don't waste your team's time
+
+#### Keep the "dirt under your fingernails"
+
+#### Block time to execute
+
+### Learn ("Consistency is the hobgoblin of little minds" - Ralph Waldo Emerson)
+
+#### Pressure to be consistent
+
+#### Burnout
 
 # Part 2 - Tools & Techniques
 
