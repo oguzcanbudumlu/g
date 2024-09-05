@@ -14,6 +14,12 @@
   - Team-building: hiring,firing,promoting
   - Results: Get things done
 
+### Relationships, not power, drive you forward
+
+![img.png](img.png)
+
+### Radical Candor
+
 
 ## 2. Get, Dive, and Encourage Guidance
 
