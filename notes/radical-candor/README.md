@@ -216,9 +216,55 @@
 
 # Part 2 - Tools & Techniques
 
-## 5. Relationships
-- 
-- An approach to establishing trust with your direct reports
+## 5. Relationships (An approach to establishing trust with your direct reports)
+
+### Stay centered (You can't give a damn about others if you don't give a damn about yourself)
+
+#### Work-life integration
+
+#### Figure out your "recipe" to stay centered and stick to it
+
+#### Calendar
+
+#### Show up for yourself
+
+### Free at work
+
+### Master the art of socializing at work
+
+#### Even non-mandatory events can feel mandatory
+
+#### Booze
+
+### Respect Boundaries
+
+#### Building Trust
+
+#### Sharing Values
+
+#### Demonstrating openness
+
+#### Physical space
+
+#### Recognizing your own emotions
+
+#### Master your reactions to others' emotions
+
+- Acknowledge emotions
+
+- Ask questions.
+
+- Adding your guilt to other people's difficult emotions does not make them feel better.
+
+- Telling other people how to feel will backfire.
+
+- If you really cannot handle emotional outbursts, forgive yourself.
+
+- Keep tissues a short walk away from your desk.
+
+- Keep some closed bottles of water at your desk.
+
+- Walk. don't sit.
 
 ## 6. Guidance
 
