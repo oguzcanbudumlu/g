@@ -1,8 +1,18 @@
 # Part I - A New Management Philosophy
 
-## 1. Build Radically Candid Relationships
+## 1. Build Radically Candid Relationships (Bringing your self to work)
+### It's called management, and it's your job
 
-- Bringing your self to work
+- Emotional labor is the key to being a good boss.
+
+### How to be a good boss
+
+- Bosses are responsible for results. They achieve these results not by doing all the work themselves but by guiding the people on their theams
+- Bosses guide a team to achieve results.
+- **Guidance**, **team**, **results**: these are the responsibilities of any boss.
+  - Guidance: feedback
+  - Team-building: hiring,firing,promoting
+  - Results: Get things done
 
 
 ## 2. Get, Dive, and Encourage Guidance
