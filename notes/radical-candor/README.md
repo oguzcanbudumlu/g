@@ -1,3 +1,6 @@
+# Motivation
+
+
 # Part I - A New Management Philosophy
 
 ## 1. Build Radically Candid Relationships (Bringing your self to work)
@@ -266,9 +269,66 @@
 
 - Walk. don't sit.
 
-## 6. Guidance
+## 6. Guidance (Ideas for getting/giving/encouraging praise & criticism)
 
-- Ideas for getting/giving/encouraging praise & criticism
+### Soliciting The Impromptu Guidance (Embrace the discomfort)
+
+- You are the exception to the "criticize in private" rule of thumb
+- Have a go-to question
+- Embrace the discomfort
+- Listen with the intent to understand, not to respond.
+- Reward criticism to get more of it.
+- Reward criticism to get more of it.
+- Gauge the guidance you get.
+
+### Orange Box (Make it not just safe but natural to criticize you)
+
+### Management "Fix-it" weeks
+
+### Giving Impromptu Guidance
+
+#### Be humble
+
+- Situation, behavior, impact.
+
+- Left-hand column.
+
+- "Ontological Humility"
+
+#### Be helpful
+
+- Stating your intention to be helpful can lower defenses.
+- Show, don't tell.
+- Finding help is better than offering it yourself.
+- Guidance is a gift, not a whip or a carrot.
+
+#### Give feedback immediately
+
+- Say it in 2-3 minutes between meetings.
+- Keep slack time in your calendar, or be willing to be late.
+- Don't "save up" guidance for a 1:1 or performance review.
+- Guidance has a short half-life.
+- Unspoken criticism explodes like a dirty bomb.
+- Avoid black holes.
+
+#### In person (if possible)
+
+- Immediate vs. in person
+- Hierarchy of modes.
+- Reply All do's and don'ts.
+- Being in a remote office is hard.
+
+#### Praise in public, criticize in private
+
+- Corrections, factual observations, disagreements, and debates are different from criticism.
+- Adapt to an individual's preferences.
+- Group learning
+- Don't personalize
+- The "fundamental attribution error" will harm the effectiveness of your guidance.
+- Say "that's wrong" not "you're wrong"
+- The phrase "don't take it personally" is worse than useless.
+- How not to personalize even when it really is personal.
+
 
 ## 7. Team
 
