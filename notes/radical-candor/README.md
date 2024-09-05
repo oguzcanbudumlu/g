@@ -20,6 +20,14 @@
 
 ### Radical Candor
 
+### Care Personally:The First Dimension of Radical Candor
+
+### Challenge Directly: The Second Dimension of Radical Candor
+
+### What Radical Candor is Not
+
+### Radical Candor is Universally Human, but interpersonally and culturally relative
+
 
 ## 2. Get, Dive, and Encourage Guidance
 
