@@ -389,9 +389,53 @@
 - How do you strike the right balance between being supportive of the boss you're hearing about and being open to the team's thoughts?
 
 
-## 7. Team
+## 7. Team (Techniques for avoiding boredom and burnout)
 
-- Techniques for avoiding boredom and burnout
+### Career Conversations (Understand people's motivations and ambitions to help them take a step in the direction of their dreams)
+
+- Conversation one: life story
+- The second conversations: dreams
+- Conversation three: eighteen-month plan
+
+### Growth Management (Figure out who needs what types of opportunities, and how you're going to provide them)
+
+- Put names in boxes (temporarily!)
+- Write growth plans
+- Don't be an "easy grader" or a "hard a grader"
+- Ensure fairness by level
+
+### Hiring: Your Mentality and Your Process
+
+#### Process
+- Job description: define team "fit" as rigorously as you define "skills" to minimize bias.
+- Blind skills assessments can also minimize bias.
+- Use the same interview committee for multiple candidates, to allow for meaningful comparisons.
+- Make interviews productive by jotting down your thoughts right away.
+- In-person debrief/decision: if you're not dying to hire the person, don't make an offer.
+
+### Firing (A necessary evil)
+
+#### Do not wait too long
+#### Do not make the decision unilaterally
+#### Give a damn
+#### Follow up
+
+### Promotions (Be fair)
+- Prepare
+- Manage the time carefully, and don't let arguments go on too long.
+- Get enough sleep the day before, exercise that morning, and eat a good breakfast.
+- When it's all done, acknowledge how hard these conversations are.
+
+### Reward Your Rock Stars (Don't give all the glory to the superstars)
+
+#### Avoid promotion/status obsession
+#### Say "thank-you"
+#### Gurus
+#### Public presentations
+
+### Summary
+
+### Avoid absentee management and micromanagement
 
 ## 8. Results
 
