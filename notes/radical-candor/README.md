@@ -323,12 +323,25 @@
 - Corrections, factual observations, disagreements, and debates are different from criticism.
 - Adapt to an individual's preferences.
 - Group learning
-- Don't personalize
+
+#### Don't personalize
+
 - The "fundamental attribution error" will harm the effectiveness of your guidance.
 - Say "that's wrong" not "you're wrong"
 - The phrase "don't take it personally" is worse than useless.
 - How not to personalize even when it really is personal.
 
+#### Gauge your impromptu guidance, Get a baseline, Track your improvements
+
+#### Being radically candid with your boss
+
+#### Gender and guidance
+
+##### Why Radical Candor may be harder for men managing women
+##### Why gender bias makes Radical Gender harder for women
+##### What can you do?
+##### Men: don't "pull punches" with women
+##### Women: demand criticism
 
 ## 7. Team
 
