@@ -437,6 +437,38 @@
 
 ### Avoid absentee management and micromanagement
 
-## 8. Results
+## 8. Results (Things you can do to get stuff done together-faster)
 
-- Things you can do to get stuff done together - faster
+1. 1:1 Conversations
+2. Staff Meetings
+3. Think Time
+4. "Big Debate" Meetings
+5. "Big Decision" Meetings
+6. All-Hands Meetings
+7. Meeting-Free Zones
+8. Kanban Boards
+9. Walk Around
+10. Be Conscious of Culture
+
+### 1:1 Conversations (Employees set the agenda, you listen and help them clarify)
+
+#### Mind-set
+#### Frequency
+#### Show up!
+#### Your direct report's agenda, not yours
+#### Some good follow-up questions
+- "Why"
+- "How can I help"
+- "What can I do or stop doing that would make this easier?"
+- "What wakes you up at night"?
+- "What are you working on that you don't want to work on?"
+  - "Do you not want to work on it because you are not interested or because you think it's not important?"
+  - "What can you do to stop working on it?"
+- "How do you feel about priorities of the teams you're dependent on?"
+  - "What are they working on that seems unimportant or even counterproductive?"
+  - "What are they not doing that you wish they would do?"
+  - "Have you talked to these other teams direct about your concerns? If not, why?" (Important note: the goal here is to encourage the people to raise the issue directly with each other, not to solve the problem for them. See "Prevent Backstabbing" in chapter six.)
+
+#### Encourage new ideas in the 1:1.
+- "What do you need to develop that idea further so that it's ready to discuss with the broader team? How can I help?"
+- 
