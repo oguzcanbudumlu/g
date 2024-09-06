@@ -342,6 +342,52 @@
 ##### What can you do?
 ##### Men: don't "pull punches" with women
 ##### Women: demand criticism
+##### Men and women: things to think about when you feel a woman is being "too aggressive"
+- Switch genders
+- Be more specific
+- Don't use gendered language
+- Never just say, "Be more likeable"
+
+##### Things to think about if you're a woman who's being told, "You're abrasive"
+- Never stop challenging directly
+- Care personally - but kill the angel in the office.
+- The competence/likeability research has not concluded that you weren't out of line.
+- Just because it's wrong to kiss up and kick down does not mean it's right to do opposite
+- Do not write men off.
+
+##### Formal Performance Reviews
+- No surprises
+- Do not rely on your unilateral judgement
+- Solicit feedback on yourself first
+- Write it down
+- Make a conscious decision about when to give the written review.
+- Schedule at least fifty minutes in person, and do not do reviews back-to-back.
+- Spend half the time looking back (diagnosis), half the time looking forward (plan).
+- Schedule regular check-ins to assess how the plan is working.
+- Deliver the rating/compensation news after the performance review.
+
+### Prevent backstabbing (You are a boss, not a diplomat. Shuttle diplomacy won't work for you)
+
+### Peer guidance
+- "Whoops the Monkey"
+- Peer gauging
+
+### Speaking Truth to "Power"
+- Explain it. Show it Explain it again.
+- Ensure the meeting is "not for attribution"
+- Take notes and project them
+- Kick-start the conversation
+- Prioritize issues
+- Share notes right after  the meeting
+- Ensure that your directs make and communicate changes
+- Have these meetings once a year for each of your direct reports.
+
+### Skip level meetings FAQs
+- What if it becomes clear that an entire team has lost faith in their manager?
+- What if people won't talk?
+- What if people won't shut up?
+- How do you strike the right balance between being supportive of the boss you're hearing about and being open to the team's thoughts?
+
 
 ## 7. Team
 
