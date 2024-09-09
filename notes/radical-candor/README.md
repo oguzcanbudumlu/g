@@ -471,4 +471,124 @@
 
 #### Encourage new ideas in the 1:1.
 - "What do you need to develop that idea further so that it's ready to discuss with the broader team? How can I help?"
-- 
+- "I think you're on to something, but it's still not clear to me. Can you try explaining it again?"
+- "Let's wrestle some more with it, OK?"
+- "I understand what you mean, but I don't think others will. How can you explain it so it will be easier for them to understand?"
+- "I don't think 'so-and-so" will understand this. Can you explain it again to make it clearer specifically for them?"
+- "Is the problem really that they are too stupid to understand, or is it that you are not explaining it clearly enough?"
+
+#### Signs you'll get from 1:1s that you're failing as a boss
+
+- Cancellations
+- Updates
+- Good news only
+- No criticism
+- No agenda
+
+### Staff Meetings (Review metrics, study hall updates, and identify (but do not make) key decisions)
+
+#### Learn: review key metrics (twenty minutes)
+#### Listen: put updates in a shared document (fifteen minutes)
+#### Clarify: identify key decisions & debates (thirty minutes)
+
+### Think Time (Block time to think, and hold that time sacred)
+
+### "Big Debate" Meetings (Lower the tension by making it clear that you are debating, not deciding)
+
+#### They lower tension
+
+#### They allow you to slow down key decisions when appropriate
+
+#### They foster a larger culture of debate
+
+### "Big Decisions" Meetings (Push decisions into the facts, pull facts into the dceisions, and keep egos at bay)
+
+### All-Hands Meetings (Bring others along)
+
+### Execution time (Fight meeting proliferation)
+
+### Kanban Boards (Make activity and workflows visible)
+
+### Walk Around (Learn about small problems to prevent big ones)
+
+### Be Conscious of Culture (Everyone is watching you, but that doesn't mean it's all about you)
+
+#### People are listening. Like it or not, you're under the microscope
+
+#### Clarify. Be vigilant about clarifying what you are communicating
+
+#### Debate and decide explicitly. Don't let things that pervert your culture "just happen"
+
+#### Persuade. Pay attention to the small things
+
+#### Execute: Action should reflect your culture
+
+#### Learn
+
+#### Listen. . .
+
+
+
+
+## Getting Started
+
+### Prove You Can Take it Before You Start Dishing it out
+
+#### Now you're ready to start having career conversations
+
+#### In parallel: perfect your 1:1 conversations
+
+#### Next
+
+#### Take a deep breath. Assess.
+
+#### If the answer to these three questions is "yes", you're ready to perfect staff meetings, decisions, and debates for your team.
+
+#### Return to guidance
+
+#### Fight meeting proliferation
+
+Make sure you're not getting overscheduled.
+
+#### Plan for the future of your team
+
+#### Return to guidance
+
+#### Walk around
+
+#### Begin to take a more Radically Candid approach to the processes that your company may have in place.
+
+## Afterword to the revised edition (Rolling Out Radical Candor)
+
+
+### You
+
+#### Improve using role plays and storytelling
+
+#### Practise: What's your story?
+
+#### Practice: The Feedback Triangle
+
+#### Solicit Criticism First
+
+1. solicit criticism
+2. give praise
+3. give criticism
+4. gauge the criticism and adjust
+5. encourage praise and criticism between others
+
+##### Kim's Soliciting Feedback Story
+
+### A go-to question you can actually image asking
+
+- **Sincere**. People have well-tuned BS detectors. If you sound like you're parroting something you read in a book, even a great book, you're not going to sound sincere
+- **Don't ask questions that can be answered with a yes or no.**  "What could I do or stop doing"
+- **Specific vs open-ended** Open ended: "What could I do or stop doing that would make it easier to work with me?" vs "I worry that sometimes I interrupt people before they've had a chance to express themselves adequately. When have you seen me do that? Will you flag it for me if you see me do it next week?"
+- **Frequency** Asking frequently for feedback helps to increase the likelihood that feedback is actionable.
+
+#### Some questions:
+
+- "In the "
+
+
+
