@@ -201,6 +201,9 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 ## 4. Drive Results Collaboratively (Telling people what to do does not work.)
 
+![img_10.png](img_10.png)
+
+
 ### Telling people what to do didn't work at Google
 
 ### Telling people what to do didn't work for Steve Jobs Either
@@ -271,7 +274,7 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 ## 5. Relationships (An approach to establishing trust with your direct reports)
 
-![img_10.png](img_10.png)
+
 
 ### Stay centered (You can't give a damn about others if you don't give a damn about yourself)
 
