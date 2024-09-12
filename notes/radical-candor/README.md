@@ -52,6 +52,8 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ## 2. Get, Dive, and Encourage Guidance (Create a culture of open communication)
 
+![img_13.png](img_13.png)
+
 ### The "UM" story
 
 ### "Operationalizing" Good Guidance
