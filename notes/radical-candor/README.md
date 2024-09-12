@@ -582,13 +582,67 @@ Make sure you're not getting overscheduled.
 ### A go-to question you can actually image asking
 
 - **Sincere**. People have well-tuned BS detectors. If you sound like you're parroting something you read in a book, even a great book, you're not going to sound sincere
-- **Don't ask questions that can be answered with a yes or no.**  "What could I do or stop doing"
-- **Specific vs open-ended** Open ended: "What could I do or stop doing that would make it easier to work with me?" vs "I worry that sometimes I interrupt people before they've had a chance to express themselves adequately. When have you seen me do that? Will you flag it for me if you see me do it next week?"
+- **Don't ask questions that can be answered with a yes or no.**  
+  - "What could I do or stop doing"
+- **Specific vs open-ended** 
+  - "What could I do or stop doing that would make it easier to work with me?" 
+  - "I worry that sometimes I interrupt people before they've had a chance to express themselves adequately. When have you seen me do that? Will you flag it for me if you see me do it next week?"
 - **Frequency** Asking frequently for feedback helps to increase the likelihood that feedback is actionable.
 
 #### Some questions:
 
-- "In the "
+- In the last week, when would you have preferred that I be more or less involved in your work?
+- Tell me why I'm off base here.
+- What's something I could have done differently this week to make your job easier?
+- How could I best support your professional development right now?
+- What's something I've done in the last week that made it difficult to work with me?
+- What's a blind spot of mine that you have noticed?
+- The most important thing you can do for both of us is to tell me when I've screwed up.
+- I feel like I didn't do as well as I could have in that meeting, but I'm not sure what I did wrong. Can you help me figure out?
+- I'm really trying to do X better. I know in theory it's a problem but I'm not always aware in the moment. Can you help me by pointing it out when you see it?
+
+1. Did it produce useful feedback?
+2. Did it sound natural, i.e, like something you'd actually say?
+
+### Embrace the discomfort 
+
+
+So much of putting Radical Candor into practice is being able to move through social awkwardness.
+Ask your question to a friendly colleague **then count to six**. Do not allow yourself to say anything no matter how awkward you feel or they look. Of course, some will remain silent. If they do, tell them you'll give them more time but that you will comme back to them because you really want their feedback. **(Enforcing feedback)**
+
+
+
+### Listen with the intent to understand, not to reply
+- Your job is not to give advice, it's to listen.
+
+### Make Listening Tangible: Reward The Candor
+
+When someone offers you criticism, they are taking a risk. It is your job to make sure they are rewarded for taking that risk.
+
+**Practice: Make Listening Tangible**
+At a team meeting, share some feedback you received in the past week, what you learned from it, your gratitude for it, and what you plan to do about it.
+
+**Practice: Reward criticism you disagree with**
+
+### Build it into your existing scheduled
+
+**Practice: add soliciting feedback to the end of your 1:1 agenda**
+
+
+### Praise: Focus on the good stuff. Really.
+
+### Apply The Same Discipline to Praise that you do to criticism
+
+### Gauge Criticism
+
+### Diversity and Inclusion
+
+### What's next?
+
+
+
+
+
 
 
 
