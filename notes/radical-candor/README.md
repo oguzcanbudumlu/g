@@ -16,7 +16,7 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ### How to be a good boss
 
-- Bosses are responsible for results. They achieve these results not by doing all the work themselves but by guiding the people on their theams
+- Bosses are responsible for results. They achieve these results not by doing all the work themselves but by guiding the people on their teams.
 - Bosses guide a team to achieve results.
 - **Guidance**, **team**, **results**: these are the responsibilities of any boss.
   - Guidance: feedback
@@ -65,18 +65,25 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 #### Radically Candid criticism "To keep winning, criticize the wins"
 
 ### Obnoxious Aggression
+- Brutal honesty or front stabbing 
+- what happens when you challenge someone directly, but don't show you care about them personally. It's praise that does not feel sincere or criticism that is not delivered kindly.
+- It's also the second-best thing you can do if you can't be Radically Candid. People rather work for a "competent asshole" than a "nice competent." 
 
 #### Obnoxiously aggressive criticism (Front-stabbing)
 
 #### Obnoxiously aggressive praise (Belittling compliments)
 
 ### Manipulative Insincerity
+Backstabbing, political or passive-aggressive behavior - it's praise that is insincere, flattery to a person's face and harsh criticism behind their back.
 
 
 #### Manipulatively insincere praise
 
 
 ### Ruinous Empathy
+
+- What happens when you want to spare someone's short-term feelings, so you don't tell them something they need to know.
+  - Big pitfall to many. Ruinous Empathy is responsible for the vast majority of management mistakes. Creates kind of work environment where "being nice" is prioritized at the expense of critiquing, and therefore, improving actual performance.
 
 #### Ruinously empathetic praise "Just trying to say something nice"
 
