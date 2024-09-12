@@ -1,5 +1,6 @@
-# Motivation
+# Preface
 
+## Motivation
 
 # Part I - A New Management Philosophy
 
@@ -30,7 +31,6 @@
 ### What Radical Candor is Not
 
 ### Radical Candor is Universally Human, but interpersonally and culturally relative
-
 
 ## 2. Get, Dive, and Encourage Guidance (Create a culture of open communication)
 
@@ -69,7 +69,6 @@
 #### Understand the perilous border between Obnoxious Aggression and Radical Candor (Your work is shit)
 
 #### Think of a simple example ("Your fly is down")
-
 
 ## 3. Understand What Motivates Each Person on Your Team (Helping people take a step in the direction of their dreams)
 
@@ -388,7 +387,6 @@
 - What if people won't shut up?
 - How do you strike the right balance between being supportive of the boss you're hearing about and being open to the team's thoughts?
 
-
 ## 7. Team (Techniques for avoiding boredom and burnout)
 
 ### Career Conversations (Understand people's motivations and ambitions to help them take a step in the direction of their dreams)
@@ -527,11 +525,9 @@
 
 #### Listen. . .
 
-
-
+# Afterword
 
 ## Getting Started
-
 ### Prove You Can Take it Before You Start Dishing it out
 
 #### Now you're ready to start having career conversations
@@ -638,8 +634,6 @@ At a team meeting, share some feedback you received in the past week, what you l
 ### Diversity and Inclusion
 
 ### What's next?
-
-
 
 
 
