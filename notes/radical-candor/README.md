@@ -707,3 +707,4 @@ At a team meeting, share some feedback you received in the past week, what you l
 # References
 
 - [1] https://agile-od.com/mmdojo/1762/radical-candor
+- [2] https://wilte.wordpress.com/2019/09/18/radical-candor-kim-scott/
