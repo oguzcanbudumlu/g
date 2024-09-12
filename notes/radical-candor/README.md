@@ -23,6 +23,8 @@
 ![img.png](img.png)
 
 ### Radical Candor
+- ![img_7.png](img_7.png)
+
 
 ### Care Personally:The First Dimension of Radical Candor
 
@@ -69,20 +71,40 @@
 #### Understand the perilous border between Obnoxious Aggression and Radical Candor (Your work is shit)
 
 #### Think of a simple example ("Your fly is down")
+![img_2.png](img_2.png)
 
 ## 3. Understand What Motivates Each Person on Your Team (Helping people take a step in the direction of their dreams)
 
 ### Rethinking ambition
 
+- right positions for right people
+- challenging affects not just their feelings but also their income, their career growth, and their ability to get what they want out life.
+
+- The Apple leader classification
+  - Rock stars
+  - Super stars
+  - You need both
+  
+- Let go of your judgements
+  - What is ambition?
+  - What is stable?
+  - Think about positive examples
+  - 
+
+![img_3.png](img_3.png)
+
 ### Growth Management
 
 #### It is getting better all the time
+![img_4.png](img_4.png)
+
 
 ### Understanding what matters and why
 
 ### The Problem with "Passion"
 
 ### Excellent Performance
+![img_5.png](img_5.png)
 
 #### Keep your top performers top of mind
 
@@ -157,6 +179,7 @@
 
 ### The art of getting stuff done without telling people what to do
 
+![img_6.png](img_6.png)
 
 ### Listen ("Give the quite ones a voice" - Jony Ive)
 
@@ -219,6 +242,8 @@
 # Part 2 - Tools & Techniques
 
 ## 5. Relationships (An approach to establishing trust with your direct reports)
+
+![img_10.png](img_10.png)
 
 ### Stay centered (You can't give a damn about others if you don't give a damn about yourself)
 
@@ -326,6 +351,12 @@
 #### Don't personalize
 
 - The "fundamental attribution error" will harm the effectiveness of your guidance.
+
+- ![img_8.png](img_8.png)
+- ![img_9.png](img_9.png)
+
+
+
 - Say "that's wrong" not "you're wrong"
 - The phrase "don't take it personally" is worse than useless.
 - How not to personalize even when it really is personal.
@@ -640,3 +671,11 @@ At a team meeting, share some feedback you received in the past week, what you l
 
 
 
+
+
+
+![img_1.png](img_1.png)
+
+# References
+
+- [1] https://agile-od.com/mmdojo/1762/radical-candor
