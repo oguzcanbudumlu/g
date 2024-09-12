@@ -3,8 +3,13 @@
 ## Motivation
 
 # Part I - A New Management Philosophy
+It's brutally hard to tell people when they are screwing up (...) Management is hard.
+"At Apple we hire people to tell us what to do, not the other way around."
 
 ## 1. Build Radically Candid Relationships (Bringing your self to work)
+- A radically candid relationship starts with the basic respect and common decency that every human being owes each other, regardless of worldview.
+
+
 ### It's called management, and it's your job
 
 - Emotional labor is the key to being a good boss.
@@ -20,15 +25,26 @@
 
 ### Relationships, not power, drive you forward
 
+- A good rule of thumb for any relationship is to leave three unimportant things unsaid each day.
+
+
 ![img.png](img.png)
 
 ### Radical Candor
+
+- Radically Candor was too aggressive for Japanese, "politely persistent" worked well in Tokyo.
+- Brits, despite all their politeness, tend to be even more candid than New Yorkers.
+
 - ![img_7.png](img_7.png)
 
 
 ### Care Personally:The First Dimension of Radical Candor
+- 
+- People evolve, and so your relationships must evolve with them. Care personally; don't put people in boxes and leave them there.
 
 ### Challenge Directly: The Second Dimension of Radical Candor
+
+- If nobody is ever mad at you, you probably aren't challenging your team enough.
 
 ### What Radical Candor is Not
 
@@ -109,6 +125,9 @@
 #### Keep your top performers top of mind
 
 #### Be a partner, not an absentee manager or a micromanager
+
+![img_11.png](img_11.png)
+
 
 ### Excellent Performance/Gradual Growth Trajectory
 
@@ -271,6 +290,8 @@
 
 #### Demonstrating openness
 
+- Paul Saffo: “strong opinions, weakly held” 
+
 #### Physical space
 
 #### Recognizing your own emotions
@@ -294,6 +315,11 @@
 - Walk. don't sit.
 
 ## 6. Guidance (Ideas for getting/giving/encouraging praise & criticism)
+
+In order to build a culture of Radically Candid guidance you need to get, give, and encourage both praise and criticism.
+
+
+![img_12.png](img_12.png)
 
 ### Soliciting The Impromptu Guidance (Embrace the discomfort)
 
@@ -351,6 +377,8 @@
 #### Don't personalize
 
 - The "fundamental attribution error" will harm the effectiveness of your guidance.
+  - Using perceived personality attributes to explain someone else's behavior rather than considering one's own behavior and/or the situational factors that were probably the real cause of the other person's behavior.
+
 
 - ![img_8.png](img_8.png)
 - ![img_9.png](img_9.png)
