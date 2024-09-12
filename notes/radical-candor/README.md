@@ -403,6 +403,8 @@ In order to build a culture of Radically Candid guidance you need to get, give, 
 
 #### Gauge your impromptu guidance, Get a baseline, Track your improvements
 
+![img_14.png](img_14.png)
+
 #### Being radically candid with your boss
 
 #### Gender and guidance
