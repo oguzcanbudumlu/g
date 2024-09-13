@@ -81,9 +81,16 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ![img_13.png](img_13.png)
 
-### The "UM" story
+### "Um" Story
+
+- Do not personalize.
 
 ### "Operationalizing" Good Guidance
+
+- Being clear about what happens when you fail to care personally or challenge directly will help you avoid backsliding into old habits.
+- The names of each quadrant refer to **guidance**, not to **personality treats**.
+- They are a way to gauge **praise** and **criticism**.
+- Not to be used to label people. Labeling hinders improvement.
 
 ### Radical Candor
 
