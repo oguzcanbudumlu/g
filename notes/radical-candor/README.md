@@ -25,9 +25,6 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ### Relationships, not power, drive you forward
 
-- A good rule of thumb for any relationship is to leave three unimportant things unsaid each day.
-
-
 ![img.png](img.png)
 
 ### Radical Candor
@@ -66,8 +63,18 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
   - Difficult at the outset
   - Hardest part of building trust is inviting people to challenge you, just as directly as you are challenging them.
   - You may be the one who feels upset or angry. This takes some getting used to.
+  - Takes a real energy on both side.
+  - Do it for things that really matter. A good rule of thumb for any relationship is to leave three unimportant things unsaid each day.
+  - Practiing "up", "down", "sideways". not hierarchical thing.
 
 ### What Radical Candor is Not
+- not a license to gratuitously harsh
+- not front-stab
+- not an innovation to nitpick (kusur bulma)
+- not a hierarchical thing
+- not about schmoozing (kaynasma)
+- not about endless extroversion that exhausts the introverts on your team.
+- not about getting drunk or driving go-carts or playing laser tag or having endless dinners with colleagues. Of course, those are good things.
 
 ### Radical Candor is Universally Human, but interpersonally and culturally relative
 
