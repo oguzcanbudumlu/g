@@ -35,16 +35,37 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 - Radically Candor was too aggressive for Japanese, "politely persistent" worked well in Tokyo.
 - Brits, despite all their politeness, tend to be even more candid than New Yorkers.
 
+- Care personally
+  - Being more than "just professional", about giving a damn, sharing more than just your work self, encouraging everyone who reports to you to do the same.
+  - Not just business; it is personal, and deeply personal. 
+  - Not enough to care only about people's ability to perform a job.
+
+- Challenge Directly
+  - Telling people when their work isn't good enough.
+  - Delivering hard feedback, making hard calls about who does what on a team, and holding a high bar for results.
+  - Challenging people is often the best way to show them that you care when you're the boss even if it does not seem like a good way to build a relationship or to show that you "care personally"
+
 - ![img_7.png](img_7.png)
 
-
 ### Care Personally:The First Dimension of Radical Candor
-- 
+
 - People evolve, and so your relationships must evolve with them. Care personally; don't put people in boxes and leave them there.
 
 ### Challenge Directly: The Second Dimension of Radical Candor
 
-- If nobody is ever mad at you, you probably aren't challenging your team enough.
+
+
+- The source of everything respectable in man either as an intellectual or as a moral being [is] that his errors are corrigible. He is capable of rectifying his mistakes, by discussion and experience. Not by experiencing alone. There must be discussion, to show how experience is to be interpreted.
+**("Degisim hatayi kabul etmekle baslar")**
+
+- Challenging others and encouraging them to challenge you helps build **trusting relationships**.
+  - You are willing to admit when you're wrong 
+  - You are committed to fixing mistakes that you or others have made.
+  - You care enough to point out both the things that aren't going well.
+  - Because challenging often involves disagreeing or saying no, this approach embraces conflict rather than avoiding it. 
+  - Difficult at the outset
+  - Hardest part of building trust is inviting people to challenge you, just as directly as you are challenging them.
+  - You may be the one who feels upset or angry. This takes some getting used to.
 
 ### What Radical Candor is Not
 
