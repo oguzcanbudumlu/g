@@ -29,9 +29,6 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ### Radical Candor
 
-- Radically Candor was too aggressive for Japanese, "politely persistent" worked well in Tokyo.
-- Brits, despite all their politeness, tend to be even more candid than New Yorkers.
-
 - Care personally
   - Being more than "just professional", about giving a damn, sharing more than just your work self, encouraging everyone who reports to you to do the same.
   - Not just business; it is personal, and deeply personal. 
@@ -50,8 +47,6 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ### Challenge Directly: The Second Dimension of Radical Candor
 
-
-
 - The source of everything respectable in man either as an intellectual or as a moral being [is] that his errors are corrigible. He is capable of rectifying his mistakes, by discussion and experience. Not by experiencing alone. There must be discussion, to show how experience is to be interpreted.
 **("Degisim hatayi kabul etmekle baslar")**
 
@@ -68,6 +63,7 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
   - Practiing "up", "down", "sideways". not hierarchical thing.
 
 ### What Radical Candor is Not
+
 - not a license to gratuitously harsh
 - not front-stab
 - not an innovation to nitpick (kusur bulma)
@@ -77,6 +73,9 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 - not about getting drunk or driving go-carts or playing laser tag or having endless dinners with colleagues. Of course, those are good things.
 
 ### Radical Candor is Universally Human, but interpersonally and culturally relative
+
+- Radically Candor was too aggressive for Japanese, "politely persistent" worked well in Tokyo.
+- Brits, despite all their politeness, tend to be even more candid than New Yorkers.
 
 ## 2. Get, Dive, and Encourage Guidance (Create a culture of open communication)
 
