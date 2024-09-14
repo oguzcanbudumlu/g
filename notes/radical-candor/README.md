@@ -96,14 +96,25 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 #### Radically Candid praise "I admire that about you"
 
+- It should be contextualized, far more personal, and specific.
+
 #### Radically Candid criticism "To keep winning, criticize the wins"
 
+- Challenging is important to success.
+- The secret to winning is to point out to great players what they could have done better, even when they have just won a game. Especially when they have just won a game.
+
 ### Obnoxious Aggression
-- Brutal honesty or front stabbing 
+- Brutal honesty or front stabbing
+- When you criticize someone without taking even two seconds to show you care, your guidance feels obnoxiously aggressive to the recipient.
 - what happens when you challenge someone directly, but don't show you care about them personally. It's praise that does not feel sincere or criticism that is not delivered kindly.
-- It's also the second-best thing you can do if you can't be Radically Candid. People rather work for a "competent asshole" than a "nice competent." 
+- It's also the second-best thing you can do if you can't be Radically Candid. People rather work for a "competent asshole" than a "nice competent."
+- Keep your humanity intact
+- Belittling employees, embarrass them publicly, freeze them out.
+- Gets result in short-term but leaves a trail of dead bodies in its wake in the long run.
+- In the toxic culture of guidance, criticism is a weapon rather than a tool for improvement; it makes the giver feel powerful and the receiver feel awful. Even praise can feel more like a backhanded compliment than a celebration. "You got it right **this** time"
 
 #### Obnoxiously aggressive criticism (Front-stabbing)
+
 
 #### Obnoxiously aggressive praise (Belittling compliments)
 
@@ -112,20 +123,53 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 
 #### Manipulatively insincere praise
+- When you do not care enough about a person to challenge directly.
+- People give praise and criticism that is manipulatively insincere when they are too focused on being liked or think they can gain some sort of political advantage by being **fake** - or when they are just too tired to care or argue or anymore.
+- Guidance that is manipulatively insincere **rarely** reflects what the speaker actually thinks; rather; it is an attempt to push the other person's emotional buttons in return for some personal gain.
+- "He'll be happy if I tell him I liked his stupid presentation, and that will make my life easier than explaining why it sucked. In the long run, though, I really need to find someone to replace him."
+- Leadership is sometimes about being willing to piss people off. 
+- When you are overly worried about how people will perceive you, you're willing to say what needs to be said. 
+- You may feel it's because you care about the team, but really, in those all-too-human moments you may care too much how they feel about you - in other words, about yourself.
+- Give a damn about the people you challenge. 
 
+- Unfortunately, conventional wisdom and a lot of management advice pushes bosses to challenge less, rather than encouraging them to care more. Generally resulting praise and criticism feels to employees like flattery and backstabbing. This does not build trust.
 
 ### Ruinous Empathy
 
+- When bosses are too invested in everyone getting along, they also fail to encourage the people on their team to criticize one another for fear of sowing discord.
+- They create the kind of work environment where "being nice" is prioritized at the expense critiquing, and therefore improving actual performance.
+
 - What happens when you want to spare someone's short-term feelings, so you don't tell them something they need to know.
-  - Big pitfall to many. Ruinous Empathy is responsible for the vast majority of management mistakes. Creates kind of work environment where "being nice" is prioritized at the expense of critiquing, and therefore, improving actual performance.
 
 #### Ruinously empathetic praise "Just trying to say something nice"
+
+- Trying to make happy
+- When giving praise, investigate until you really understand who did what and why it was so great. Be as specific and through with praise as with criticism. Go deep into the details.
 
 ### Moving Toward Radical Candor
 
 #### Start by asking for criticism, not by giving it (Do not dish it out before you show you can take it)
 
+- Best way to show that you are aware that you are often wrong, and that you want to hear about it when you are; you want to be challenged.
+- Second you will learn a lot.
+- Third, teaches how it feels to receive criticism.
+- Fourth, great way to build trust and strengthen your relationships.
+
+- Not just being open to criticism but by actively soliciting it.
+- If a person is bold enough to criticize you, do not critique their criticism. 
+- If you see somebody criticizing a peer inappropriately, say something.
+- If somebody criticizes **you** inappropriately, your job is to listen with the intent to understand and then to reward the candor.
+
+- The  key to soliciting criticism is **not to react defensively**.
+- The  key to soliciting criticism is **enduring silence**.
+
 #### Balance praise and criticism (Worry more about praise, less about criticism - but above all be sincere)
+
+- We learn more from our mistakes than our successes, more from criticism than from praise.
+- Giving more praise than criticism guides people in the right direction. It's just as important to let people know what to do more of as what to do less of.
+- Second, it encourages people to keep improving. In other words, the best praise does a lot more than just make people feel good. It can actually challenge them directly.
+- Criticism-praise ratio mindset may seem unnatural, insincere, or just plain ridiculous.
+- When giving praise, put more energy into how praise can go wrong.
 
 #### Understand the perilous border between Obnoxious Aggression and Radical Candor (Your work is shit)
 
