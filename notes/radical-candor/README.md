@@ -170,18 +170,41 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 - Second, it encourages people to keep improving. In other words, the best praise does a lot more than just make people feel good. It can actually challenge them directly.
 - Criticism-praise ratio mindset may seem unnatural, insincere, or just plain ridiculous.
 - When giving praise, put more energy into how praise can go wrong.
+- "If I'm not firing you, it means you're doing fine". That's not good enough.
 
 #### Understand the perilous border between Obnoxious Aggression and Radical Candor (Your work is shit)
+
+- Radically Candid criticism can take different format in different companies.
+- Google emphasizes caring personally more than challenging directly. (Twist of Ruinous Empathy)
+- Apple does the opposite.  (Twist of Obnoxious Aggression) Says: "do not personalize the criticism. not to say when you are not good enough. Instead it it your work is not good enough."
+- **Fundamental attribution error** highlights the role of personal traits rather than external causes. It's easier to find fault in that person than to look for the fault within the context of what that person is doing. It's easier to say "You're sloppy" than to say "You've been working nights and weekends, and it's starting to take a toll on your ability to catch mistakes in your logic."
+- Steve Jobs explanations:
+> You need to do that in a way that does not call into question your confidence in their abilities but leaves not too much room for interpretation...and that's a hard thing to do
+
+> For criticism to be effective, it's crucial "to do it very clearly and to articulate why... and to get them **back on track**"
+
+- How do you criticize without discouraging the person? 
+  - Focus on your relationship
+  - Ask for criticism before giving it, and offer more praise than criticism
+  - Be humble, helpful, offer guidance in person and immediately, praise in public, criticize in private, and don't personalize.
+  - Make it clear that the problem is not due to some unfixable personality flaw.
+  - Share stories when you've been criticized for something similar.
 
 #### Think of a simple example ("Your fly is down")
 ![img_2.png](img_2.png)
 
+- One way to solve a hard problem is to think of a simpler but similar one. Apply same technique to the hard problem.
+- 
+
 ## 3. Understand What Motivates Each Person on Your Team (Helping people take a step in the direction of their dreams)
 
 ### Rethinking ambition
+- Care Personally dimension of Radical Candor.
+- Understand how each person's job fits into their life goals.
+- Know each person who reports directly to you, to have real, human relationships.
+- When putting right people in the right roles on your team, you'll also have to challenge people even more directly than you did with guidance. It will not impact not just their feelings but also their income, their career growth, and their ability to get what they want out of life.
 
 - right positions for right people
-- challenging affects not just their feelings but also their income, their career growth, and their ability to get what they want out life.
 
 - The Apple leader classification
   - Rock stars
@@ -192,17 +215,36 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
   - What is ambition?
   - What is stable?
   - Think about positive examples
-  - 
+
+- It is wrong to believe that pushing everybody to grow super-fast was simply "best practice" for building a high-performing team.
 
 ![img_3.png](img_3.png)
+
+- "Growth" instead of "potential"
+- Determining growth trajectory will help you avoid burning out the rock starts and boring the superstars.
+- They will help you build stable teams.
 
 ### Growth Management
 
 #### It is getting better all the time
 ![img_4.png](img_4.png)
 
+- Shifting from traditional "talent management" mind-set to one of "growth management" will help you make sure everyone on your team is moving in the right direction. Creativity flourishes, efficiency improves, people enjoy working together.
+
+- "Growth management" framework to clarify your thinking about how to manage the two different types of high performers. 
+  - Those on "steep growth trajectory"
+  - Those on "gradual growth trajectory"
+
+- In order to classify, you have to get to know each of your direct reports at a personal level.
+
+- The axes of this framework are past performance and future growth trajectories. The assessment of past performance on the horizontal axis of this framework does go from "bad" to "good", but **not** the vertical axis. It's just as good to be in the bottom-right quadrant as in the upper-right. Rock stars are just as important to a team's performance as superstars. Stability is just as important as growth. The right mix of each will change over time, but you'll always need some of each.
 
 ### Understanding what matters and why
+
+- To be successful at growth management, you need to find out what motivates each person on your team.
+
+- "Steep growth" is generally characterized by rapid change - learning new skills or deepening existing ones quickly. It's not about becoming a manager-plenty of individual contributors remain on a steep growth trajectory their entire careers, and plenty of managers are on a gradual growth trajectory.
+
 
 ### The Problem with "Passion"
 
