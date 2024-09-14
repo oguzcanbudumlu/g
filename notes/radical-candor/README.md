@@ -244,7 +244,10 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 - To be successful at growth management, you need to find out what motivates each person on your team.
 
 - "Steep growth" is generally characterized by rapid change - learning new skills or deepening existing ones quickly. It's not about becoming a manager-plenty of individual contributors remain on a steep growth trajectory their entire careers, and plenty of managers are on a gradual growth trajectory.
-
+- "Gradual growth" is characterized by stability. People on a gradual growth trajectory, who perform well, have generally mastered their work and are making incremental rather than sudden, dramatic improvements. Some roles may be better suited to a rock star because they require steadiness, accumulated knowledge, and an attention to detail that someone in a superstar phase might not have focus or patience for.
+- People in a superstar phase are bad at rock star roles, and people in a rock star phase will hate a superstar role.
+- Most people shift between a steep growth trajectory and a gradual growth trajectory in different phases of their lives and careers, so it's important **to not put a permanent label** on people.
+- An ambition or a commitment outside of work enhances a person's value to the team.
 
 ### The Problem with "Passion"
 
