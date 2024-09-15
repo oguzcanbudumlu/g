@@ -387,6 +387,9 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 ## 4. Drive Results Collaboratively (Telling people what to do does not work.)
 
+- The ultimate goal of Radical Candor is to achieve collaboratively what you could never achieve individually, and to do that, you need to care about the people you're working with.
+- At first blush, it seems like achieving results is more a matter of challenging directly than caring personally.
+
 ![img_10.png](img_10.png)
 
 
