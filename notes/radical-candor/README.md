@@ -322,13 +322,33 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 #### Keep them challenged (and figure out who'll replace them when they move on)
 
+- The best way to keep superstars happy is to challenge them and make sure they are constantly learning. Give them new opportunities, even when it is sometimes more work than seems feasible for one person to do. Figure out what the next job for them will be.
+- Build an intellectual partnership with them.
+- Find them mentors from outside your team or organization
+- Make sure you don't get too dependent on them; ask them to teach others on the team to do their job.
+- Trying to hold them in same orbit for a long time is futile.
+
 #### Don't squash them or block them
 
+- It is vital not to "squash" these people.
+- Managers shouldn't be allowed to curb (brake) the ambitions of their direct reports. Google limited the power of managers to squash rather than accelerate the careers of people on steep growth trajectory.
+- Google made it easy to transfer from one team to another team. No boss can "block" such a transfer.
+
 #### Not every superstar wants to manage
+
+- Lack of interest in managing is not the same thing as being on gradual growth trajectory, just as interest in managing is not the same thing as being on a steep growth trajectory. Management and growth should not be conflated.
+- In Google, "individual contributor" career path is more prestigious than the manager path and sidesteps management entirely.
+- When management is the only path to higher compensation, the quality of management suffers.
 
 ### Managing the middle
 
 #### Raise the bar - There's no such thing as a B-player
+
+- No such thing as "B-player" or a mediocre human being.
+- Everyone can be excellent at **something**.
+- The lack of courage and energy leads to a tremendous loss of human potential.
+- One technique in Google is to insist that people who had not done exceptional work for more than two years be given an opportunity to work on a project that would let them shine. If their work still continued to be mediocre, encourage these people to look for jobs elsewhere.
+- To build a great team that achieves exceptional results, everybody needs to be doing great work. Accepting mediocrity isn't good for anybody.
 
 ### Poor performance/Negative Growth Trajectory
 
