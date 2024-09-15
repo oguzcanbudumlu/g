@@ -277,6 +277,8 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 ### Excellent Performance/Gradual Growth Trajectory
 
+- Part of building a cohesive team is to create a culture that recognizes and rewards the rock stars. 
+
 #### Recognize, reward, but don't promote
 
 - Best way to manage rock stars, the people whom you can count on to deliver great results year after year? You need to recognize them to keep them happy. For too many bosses, "recognition" means "promotion". This is a mistake. Promotion often puts these people in roles they are not as well-suited for or don't want. The key is to recognize their contribution in other ways. It may be a bonus or a raise. 
@@ -298,9 +300,21 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 - In WWII, the U.S. Air Force took their very best pilots from the front lines and sent them home to train new pilots.
 
+- Too many companies hire people for training whom they would never hire to do the actual job. Or, worse, rather than fire people who are not performing well in a particular role, they send them off to teach others how to do it. Teaching can become bad reputation. 
+
+- Some people hate teaching and are terrible at it: this role should be an honor, not a requirement.
+
+- In Apple, deference is given to people who had been in a particular role for years. At Google, being in the same role for too long was a badge of shame.
+
+- In Apple, **honoring tenure** was an important alternative to promotions.
+
 #### Respect
 
+- Should be default.
+
 #### The dangers of promotion obsession
+
+- An example that bad promotion occurs is that when people are competent for the next job but have no desire to do it at that moment in their lives. 
 
 ### Excellent Performance/Steep Growth Trajectory
 
