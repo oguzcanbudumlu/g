@@ -279,9 +279,24 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 #### Recognize, reward, but don't promote
 
+- Best way to manage rock stars, the people whom you can count on to deliver great results year after year? You need to recognize them to keep them happy. For too many bosses, "recognition" means "promotion". This is a mistake. Promotion often puts these people in roles they are not as well-suited for or don't want. The key is to recognize their contribution in other ways. It may be a bonus or a raise. 
+- If they like public speaking, get them to present at your all-hands meetings or other big events.
+- If they like teaching, get them to help new people learn their roles faster.
+- If they are shy, make sure that you and others on the team thank them privately for the work they do.
+- If your organization gives performance ratings and/or bonuses, make sure they are fair to the rock stars.
+
 #### Fair performance ratings
 
+- In some companies, rock stars don't get the performance review they deserve because all the top ratings are reserved for people who are in line to get promoted.
+- A lot of companies ration the number of top ratings. Avoiding "grade inflation" is a good idea.
+- If one person is doing much better work than others on the team, it seems obvious they should get a better rating and a higher bonus. But when ratings are primarily used to justify future promotions, rather than to recognize past performance, this doesn't happen.
+
 #### Recognition
+
+- In addition to top ratings, a great way to recognize people in a rock star phase is to designate them as "gurus" or "go-to" experts
+- Often this means putting them in charge of teaching newer team members, if they show the aptitude for it. Bosses can be reluctant to use a top performer this way, wanting them to do the job rather than to teach others. However, this attitude prevents an organization from getting as much leverage out of experts as they otherwise would.
+
+- In WWII, the U.S. Air Force took their very best pilots from the front lines and sent them home to train new pilots.
 
 #### Respect
 
