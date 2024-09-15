@@ -87,6 +87,7 @@ It's brutally hard to tell people when they are screwing up (...) Management is 
 
 ### "Operationalizing" Good Guidance
 
+- There are two dimensions to good guidance: care personally and challenge directly.
 - Being clear about what happens when you fail to care personally or challenge directly will help you avoid backsliding into old habits.
 - The names of each quadrant refer to **guidance**, not to **personality treats**.
 - They are a way to gauge **praise** and **criticism**.
@@ -251,15 +252,28 @@ Backstabbing, political or passive-aggressive behavior - it's praise that is ins
 
 ### The Problem with "Passion"
 
+- Insisting that people have passion for their job can place unnecessary pressure on both boss and employee.
+- There's nothing wrong with working hard to earn a paycheck that supports the life you want to lead. That has plenty of meaning.
+- Your job is not to provide purpose but instead to get to know each of your direct reports well enough to understand how each one derives meaning from their work.
+- Motivations are highly personal.
+
 ### Excellent Performance
 ![img_5.png](img_5.png)
 
 #### Keep your top performers top of mind
 
+- Useful to focus on what both rock stars and super stars need from you.
+
 #### Be a partner, not an absentee manager or a micromanager
 
-![img_11.png](img_11.png)
+- One of the most common mistakes bosses make is to ignore the people who are doing the best work because "they don't need me" or "I don't want to micromanage." Ignoring somebody is a terrible way to build a relationship.
+- Some management bloviators will advise you simply to hire the right people and then leave them alone. (Like saying, to have a good marriage, marry the right person and then avoid spending any time with them.)
+- "Choose and ignore" strategy is crazy. As a result, you'll assign the wrong tasks to the wrong people. You'll promote the wrong people. Furthermore, if you ignore your top performers, you won't give them the guidance (praise and criticism) they need.
+- You want to be a partner. It often requires you to help do the work, rather than just advising. It requires that you ask a a lot of questions and challenge people - that you roll up your own sleeves.
+- Managers often devote more time to those who are struggling than to those who are succeeding. But that's not fair to those who are succeeding- nor is it good for the team as a whole.
+- Moving **from great to stunningly great** is more inspiring for everyone than **moving from bad to mediocre** .  Seeing what truly exceptional performance looks like will help those who are failing to see more clearly what's expected of them.
 
+![img_11.png](img_11.png)
 
 ### Excellent Performance/Gradual Growth Trajectory
 
